@@ -1,10 +1,8 @@
 /*
  ============================================================================
- Name        : Programa Interactivo.c
- Author      : Felitti Renzo
- Version     : 1.0
- Copyright   : Your copyright notice
- Description : Ejercicio 1-10 in C, Ansi-style
+ Ejercicio 1-10 in C, Ansi-style
+ Felitti Renzo
+ 19/4/2015 
  ============================================================================
  */
 #include <stdio.h>
